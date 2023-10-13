@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Coding in C and C#
 - 💞️ I’m looking to collaborate on game dev team
-- 📫 How to reach me to get more knowledgeable
+- 📫 reach me on discord: zyre_s
 
 <!---
 Zyresss/Zyresss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
